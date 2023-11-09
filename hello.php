@@ -5,7 +5,7 @@
 <h1>Halaman HTML</h1>
 
 <?php
-echo "Halo dunia!";
+echo "JENNY NURDIANTI";
 ?>
 
 </body>
